@@ -16,4 +16,8 @@ Market price information.
 User registration and login.
 Responsive design for all devices.
 Clean and user-friendly interface.
+<<<<<<< HEAD
 Convenient access to market-related information.
+=======
+Convenient access to market-related information.
+>>>>>>> a5b132208487db54ab33cb2e213bb57cecf91d2d
